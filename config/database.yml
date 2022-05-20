@@ -3,7 +3,7 @@ default: &default
   encoding: unicode
   host: database
   username: postgres
-  password:
+  password: postgres
   pool: 5
 
 development:
